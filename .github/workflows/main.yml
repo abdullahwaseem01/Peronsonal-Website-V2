@@ -13,4 +13,4 @@ jobs:
       with:
         server: ftp.abdullahwaseem.ca
         username: sj895y9980fh
-        password: ${{ secrets.ftp_password }}
+        password: Wasea4343
