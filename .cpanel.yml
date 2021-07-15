@@ -6,4 +6,5 @@ deployment:
     - /bin/cp style.css $DEPLOYPATH
     - /bin/cp app.js $DEPLOYPATH
     - /bin/cp abdullah_waseem_resume.pdf $DEPLOYPATH
+    - /bin/cp sitemap.xml $DEPLOYPATH
     - /bin/cp -R img $DEPLOYPATH
